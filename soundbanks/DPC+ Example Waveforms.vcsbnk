@@ -1,8 +1,8 @@
 {
   "type": "VCS Game Maker Sound Bank",
   "kernel": "dpcplus",
-  "developer": "AbstractPolygon",
-  "website": "https://abstractpolygon.com/",
+  "developer": "SpiceWare",
+  "website": "https://forums.atariage.com/topic/163495-harmony-dpc-programming",
   "soundEffects": [
     {
       "name": "Demo Sine",
