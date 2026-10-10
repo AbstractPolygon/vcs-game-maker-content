@@ -1,5 +1,7 @@
 {
   "type": "VCS Game Maker Sound Bank",
+  "developer": "AbstractPolygon",
+  "website": "https://abstractpolygon.com/",
   "soundEffects": [
     {
       "name": "Kick",
